@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Sign up interface</string>
+
+    <string-array name="Language">
+        <item>English</item>
+        <item>Sinhala</item>
+        <item>Tamil</item>
+
+    </string-array>
+</resources>
